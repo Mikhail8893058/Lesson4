@@ -1,0 +1,15 @@
+D:\IT\C#\Lesson4\Les4\001\bin\Debug\net6.0\001.exe
+D:\IT\C#\Lesson4\Les4\001\bin\Debug\net6.0\001.deps.json
+D:\IT\C#\Lesson4\Les4\001\bin\Debug\net6.0\001.runtimeconfig.json
+D:\IT\C#\Lesson4\Les4\001\bin\Debug\net6.0\001.dll
+D:\IT\C#\Lesson4\Les4\001\bin\Debug\net6.0\001.pdb
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\001.csproj.AssemblyReference.cache
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\001.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\001.AssemblyInfoInputs.cache
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\001.AssemblyInfo.cs
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\001.csproj.CoreCompileInputs.cache
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\001.dll
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\refint\001.dll
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\001.pdb
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\001.genruntimeconfig.cache
+D:\IT\C#\Lesson4\Les4\001\obj\Debug\net6.0\ref\001.dll
